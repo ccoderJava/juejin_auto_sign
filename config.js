@@ -1,7 +1,7 @@
 module.exports = {
-  cookie: '',
+  cookie: '_ga=GA1.2.484577109.1641799496; _gid=GA1.2.1715626014.1641799496; MONITOR_WEB_ID=d1f4593e-dfba-44bd-b070-0d18a9ddce10; passport_csrf_token_default=9d7ffcd974f2b458d3dfc485e4a69f2e; passport_csrf_token=9d7ffcd974f2b458d3dfc485e4a69f2e; _tea_utm_cache_2018=undefined; passport_auth_status=12b90cbabfe0c03d0468004f7c4dddcf,; passport_auth_status_ss=12b90cbabfe0c03d0468004f7c4dddcf,; sid_guard=d5414890b905e83203e56289fc5b12b5|1641799570|5184000|Fri,+11-Mar-2022+07:26:10+GMT; uid_tt=efcfd6621075563a2d8235e930e155ff; uid_tt_ss=efcfd6621075563a2d8235e930e155ff; sid_tt=d5414890b905e83203e56289fc5b12b5; sessionid=d5414890b905e83203e56289fc5b12b5; sessionid_ss=d5414890b905e83203e56289fc5b12b5; sid_ucp_v1=1.0.0-KDA2YmU5YWRlOWEwNTc5YjI5YWE2YzMxOTI1NGE5NzYzMjY3YjY0NjkKFwiO-MDA_fXRBhCSv--OBhiwFDgCQPEHGgJsZiIgZDU0MTQ4OTBiOTA1ZTgzMjAzZTU2Mjg5ZmM1YjEyYjU; ssid_ucp_v1=1.0.0-KDA2YmU5YWRlOWEwNTc5YjI5YWE2YzMxOTI1NGE5NzYzMjY3YjY0NjkKFwiO-MDA_fXRBhCSv--OBhiwFDgCQPEHGgJsZiIgZDU0MTQ4OTBiOTA1ZTgzMjAzZTU2Mjg5ZmM1YjEyYjU; n_mh=kfWL0d0PeUBfg_WDam7H_FzYjLAvOvtNc7auLL-az_s; _tea_utm_cache_2608={"utm_source":"gold_browser_extension"}',
   PUSH_PLUS_TOKEN: '',
-  aid: '',
-  uuid: '',
+  aid: '2608',
+  uuid: '7051475114102294047',
   _signature: ''
 }
